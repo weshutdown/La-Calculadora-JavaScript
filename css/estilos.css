@@ -221,5 +221,9 @@ body{
     width: 90%;
     order: 3;
   }
+  
+  P{
+  color: red;
+  }
 
 }
